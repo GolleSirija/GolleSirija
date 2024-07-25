@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GolleSirija
-- 👀 I’m interested in software and web developing
+- 👀 I’m interested in data scientist and devOps
 - 🌱 I’m currently learning computers and data science 
 
 
